@@ -1,0 +1,2 @@
+The library changes contain removal of deprecated APIs and modules, as well as the usual improvements in user-friendliness and correctness.
+Several legacy standard library modules have now been removed following their deprecation in Python 3.11
